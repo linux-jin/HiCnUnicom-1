@@ -1,3 +1,12 @@
+![BlueskyClouds’s github stats](https://github-readme-stats.vercel.app/api?username=BlueskyClouds&show_icons=true&theme=merko)
+<div align="center">
+<h1 align="center">My-Actions</h1>
+<img src="https://img.shields.io/github/issues/BlueskyClouds/My-Actions?color=green">
+<img src="https://img.shields.io/github/stars/BlueskyClouds/My-Actions?color=yellow">
+<img src="https://img.shields.io/github/forks/BlueskyClouds/My-Actions?color=orange">
+<img src="https://img.shields.io/github/license/BlueskyClouds/My-Actions?color=ff69b4">
+<img src="https://img.shields.io/github/languages/code-size/BlueskyClouds/My-Actions?color=blueviolet">
+</div>
 > 登录 签到 会员任务  
 新增使用github自动运行，无需自己的服务器11
 ## 使用方法
