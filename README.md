@@ -7,6 +7,12 @@
 <img src="https://img.shields.io/github/license/BlueskyClouds/My-Actions?color=ff69b4">
 <img src="https://img.shields.io/github/languages/code-size/BlueskyClouds/My-Actions?color=blueviolet">
 </div>
+### 历史 Star 数
+![](https://starchart.cc/BlueskyClouds/My-Actions.svg)
+### 访问量
+
+![](http://profile-counter.glitch.me/BlueSkyClouds/count.svg)
+
 > 登录 签到 会员任务  
 新增使用github自动运行，无需自己的服务器11
 ## 使用方法
